@@ -18,7 +18,7 @@ public class SnakeGameTest {
 
 		SnakeGame sg = new SnakeGame();
 		System.out.println("Testing the Maven project");
-		assertEquals(true,true);
+		assertEquals(fail,true);
 		
 		
 		
