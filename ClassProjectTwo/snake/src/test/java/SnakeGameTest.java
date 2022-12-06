@@ -121,7 +121,8 @@ public class SnakeGameTest {
 */
 	@Test
 	public void testFail() {
-		//assertEquals(true,false);
+		//This test case will cause failure
+		assertEquals(true,false);
 	}
 	@Test
 	public void testEpicWin() {
