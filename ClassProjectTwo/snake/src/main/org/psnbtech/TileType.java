@@ -1,4 +1,4 @@
-package org.psnbtech;
+package main.org.psnbtech;
 
 /**
  * The {@code TileType} class represents the different

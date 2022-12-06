@@ -1,4 +1,4 @@
-package main.java.org.psnbtech;
+package main.org.psnbtech;
 
 import java.awt.Color;
 import java.awt.Dimension;
