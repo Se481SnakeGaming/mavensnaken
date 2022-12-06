@@ -1,4 +1,4 @@
-package org.psnbtech;
+package main.java.org.psnbtech;
 
 /**
  * The {@code TileType} class represents the different

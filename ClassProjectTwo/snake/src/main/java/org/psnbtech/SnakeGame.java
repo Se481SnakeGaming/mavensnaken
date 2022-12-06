@@ -1,4 +1,4 @@
-package org.psnbtech;
+package main.java.org.psnbtech;
 
 import java.awt.BorderLayout;
 import java.awt.Point;

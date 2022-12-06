@@ -1,4 +1,4 @@
-package org.psnbtech;
+package main.java.org.psnbtech;
 
 /**
  * The {@code Clock} class is responsible for tracking the number of cycles

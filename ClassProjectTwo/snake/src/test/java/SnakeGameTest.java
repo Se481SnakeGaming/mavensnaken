@@ -1,4 +1,4 @@
-package test;
+package test.java;
 //commit this comment
 import static org.junit.Assert.*;
 
@@ -18,7 +18,7 @@ public class SnakeGameTest {
 
 		SnakeGame sg = new SnakeGame();
 		System.out.println("Testing the Maven project");
-		assertFail();
+		assertEquals(true,false);
 		
 		
 		
