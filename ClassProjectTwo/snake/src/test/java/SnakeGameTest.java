@@ -121,7 +121,7 @@ public class SnakeGameTest {
 */
 	@Test
 	public void testFail() {
-		//assertEquals(true,false);
+		assertEquals(true,false);
 	}
 	@Test
 	public void testEpicWin() {
