@@ -1,0 +1,16 @@
+INDEX VERSION 1.131+C:\Users\Adam\Desktop\CSUSM\Fall 2022\SE 481\ClassProjectTwo\.metadata\.plugins\org.eclipse.jdt.core
+3037233461.index
+59231031.index
+2397736684.index
+532137755.index
+6826758.index
+521200613.index
+4118785049.index
+695524433.index
+855734261.index
+4232409947.index
+2402275432.index
+1888236202.index
+113558702.index
+879060832.index
+305101529.index
